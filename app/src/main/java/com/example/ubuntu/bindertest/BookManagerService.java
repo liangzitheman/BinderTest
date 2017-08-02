@@ -15,6 +15,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 /**
  * Created by ubuntu on 17-7-31.
  */
+//xinzhushi
 
 public class BookManagerService extends Service {
     private static final String TAG = "BMS";
